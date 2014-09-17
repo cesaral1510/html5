@@ -48,7 +48,7 @@ Choose one of the following options:
 * Cross-domain Ajax and Flash.
 * "Delete-key friendly." Easy to strip out parts you don't need.
 * Extensive inline and accompanying documentation.
-dfdgdsdfasdf"thisis skkjasdkjahsdljasd"
+asdasddfdgdsdfasdf"thisis skkjasdkjahsdljasd"
 [HTML5 Boilerplate v4 provides legacy browser
 support](https://github.com/h5bp/html5-boilerplate/tree/v4) (IE 6+, Firefox
 3.6+, Safari 4+), but is no longer actively developed.
